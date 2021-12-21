@@ -1,2 +1,2 @@
 # brpc-http
-binavy http rpc framework
+binavy http restful server framework
